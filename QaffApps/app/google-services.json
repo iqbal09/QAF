@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "410372902884",
+    "firebase_url": "https://qaaf-3cb3e.firebaseio.com",
+    "project_id": "qaaf-3cb3e",
+    "storage_bucket": "qaaf-3cb3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410372902884:android:ec4d2cfb8d850f46",
+        "android_client_info": {
+          "package_name": "qaf.usu.com.qaffapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410372902884-c2c05eb4ct4ron9t7n9b8fue7gl6eneu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qaf.usu.com.qaffapps",
+            "certificate_hash": "4824f1b3cb465c79aae73b2612d59f95502c25a3"
+          }
+        },
+        {
+          "client_id": "410372902884-bsiupktimequgfn2lpevf1qhs5opompb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLFI4Xo_WhYUXd2sSrcQ7QdKmddxZYq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410372902884-bsiupktimequgfn2lpevf1qhs5opompb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
